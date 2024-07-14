@@ -1,4 +1,4 @@
-"""The script for extracting and transforming the data"""
+"""The script for extracting and transforming the data scraped from pokemondb.net"""
 
 from typing import List
 import requests
